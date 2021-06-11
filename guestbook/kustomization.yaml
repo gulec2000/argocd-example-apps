@@ -1,0 +1,4 @@
+resources:
+- guestbook-ui-deployment.yaml
+- guestbook-ui-service.yaml
+- guestbook-ui-route.yaml
