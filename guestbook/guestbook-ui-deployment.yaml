@@ -3,7 +3,6 @@ kind: Deployment
 metadata:
   name: guestbook-ui
   annotations:
-    argocd.argoproj.io/sync-wave: "1"
   labels:
     app: guestbook-ui
 spec:
